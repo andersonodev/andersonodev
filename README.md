@@ -36,7 +36,7 @@ src="https://raw.githubusercontent.com/oieanderson/oieanderson/main/src/coffee.p
 <a href="https://www.tiktok.com/@oieanderson" target="_blank"> <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
 
 <a href="https://www.oieanderson.com"><img src="https://img.shields.io/badge/-andersonodev@gmail.com-%23333?style=for-the-badge&logo=gmail&logoColor=#1DA1F2" target="_blank"></a>
-<a href="https://www.oieanderson.com"><img src="https://img.shields.io/badge/www.oieanderson.com-%230d1117.svg?style=for-the-badge&logo=&logoColor=#1DA1F2"/></a>
+<a href="https://www.oieanderson.com"><img src="https://img.shields.io/badge/www.andersonlima.dev-%230d1117.svg?style=for-the-badge&logo=&logoColor=#1DA1F2"/></a>
 
   <!-- https://shields.io/ #ALTERAÇÃO DAS BADGES -->
 
