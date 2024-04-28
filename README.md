@@ -14,6 +14,7 @@ src="https://raw.githubusercontent.com/oieanderson/oieanderson/main/src/coffee.p
 
 
 
+
   <!-- https://shields.io/ #ALTERAÇÃO DAS BADGES -->
 
 <br>
@@ -48,6 +49,8 @@ src="https://raw.githubusercontent.com/oieanderson/oieanderson/main/src/coffee.p
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%230d1117?style=for-the-badge&logo=typescript&color=0d1117&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-%230d1117?style=for-the-badge&logo=Next.js&color=0d1117)
 ![Bootstrap CSS](https://img.shields.io/badge/Bootstrap-%230d1117?style=for-the-badge&logo=bootstrap&color=0d1117&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-%230d1117?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 
 
 
