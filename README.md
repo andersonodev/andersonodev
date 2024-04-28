@@ -6,13 +6,11 @@ src="https://raw.githubusercontent.com/oieanderson/oieanderson/main/src/coffee.p
 
 [![Instagram](https://img.shields.io/badge/-@oieanderson-%230d1117?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/oieanderson)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230d1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oieanderson)
-[![Telegram](https://img.shields.io/badge/Telegram-%230d1117?style=for-the-badge&logo=telegram&logoColor=#E4405F)](https://t.me/oieanderson)
-[![Discord](https://img.shields.io/badge/Discord-%230d1117?style=for-the-badge&logo=discord)](COLOQUE_AQUI_O_SEU_LINK_PARA_O_DISCORD)
+[![Telegram](https://img.shields.io/badge/Telegram-%230d1117?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/oieanderson)
+[![Discord](https://img.shields.io/badge/Discord-%230d1117?style=for-the-badge&logo=discord&logoColor=white)](COLOQUE_AQUI_O_SEU_LINK_PARA_O_DISCORD)
 
-
-
-[![Email](https://img.shields.io/badge/-andersonodev@gmail.com-%230d1117?style=for-the-badge&logo=gmail&logoColor=#1DA1F2)](https://www.oieanderson.com)
-[![Website](https://img.shields.io/badge/www.andersonlima.dev-%230d1117?style=for-the-badge&logo=&logoColor=#1DA1F2)](https://www.oieanderson.com)
+[![Email](https://img.shields.io/badge/-andersonodev@gmail.com-%230d1117?style=for-the-badge&logo=gmail&logoColor=white)](https://www.oieanderson.com)
+[![Website](https://img.shields.io/badge/www.andersonlima.dev-%230d1117?style=for-the-badge&logo=&logoColor=white)](https://www.oieanderson.com)
 
 
 
@@ -20,7 +18,7 @@ src="https://raw.githubusercontent.com/oieanderson/oieanderson/main/src/coffee.p
 
 <br>
   
-<a href="https://www.buymeacoffee.com/oieanderson" target="_blank"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 180px !important;" >
+<a href="https://www.buymeacoffee.com/oieanderson" target="_blank"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 150px !important;" >
 </a>
       
 <div class="body">
