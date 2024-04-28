@@ -4,13 +4,17 @@
 <img align="right" alt="anderson-pic" height="230" styl0e="border-radius:100px;"
 src="https://raw.githubusercontent.com/oieanderson/oieanderson/main/src/coffee.png">  
 
-<a href="https://instagram.com/oieanderson" target="_blank"><img src="https://img.shields.io/badge/-@oieanderson-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/oieanderson" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://t.me/oieanderson"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=#E4405F"/></a>
-<a href="https://www.tiktok.com/@oieanderson" target="_blank"> <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
+[![Instagram](https://img.shields.io/badge/-@oieanderson-%230d1117?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/oieanderson)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230d1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oieanderson)
+[![Telegram](https://img.shields.io/badge/Telegram-%230d1117?style=for-the-badge&logo=telegram&logoColor=#E4405F)](https://t.me/oieanderson)
+[![Discord](https://img.shields.io/badge/Discord-%230d1117?style=for-the-badge&logo=discord)](COLOQUE_AQUI_O_SEU_LINK_PARA_O_DISCORD)
 
-<a href="https://www.oieanderson.com"><img src="https://img.shields.io/badge/-andersonodev@gmail.com-%23333?style=for-the-badge&logo=gmail&logoColor=#1DA1F2" target="_blank"></a>
-<a href="https://www.oieanderson.com"><img src="https://img.shields.io/badge/www.andersonlima.dev-%230d1117.svg?style=for-the-badge&logo=&logoColor=#1DA1F2"/></a>
+
+
+[![Email](https://img.shields.io/badge/-andersonodev@gmail.com-%230d1117?style=for-the-badge&logo=gmail&logoColor=#1DA1F2)](https://www.oieanderson.com)
+[![Website](https://img.shields.io/badge/www.andersonlima.dev-%230d1117?style=for-the-badge&logo=&logoColor=#1DA1F2)](https://www.oieanderson.com)
+
+
 
   <!-- https://shields.io/ #ALTERAÇÃO DAS BADGES -->
 
@@ -39,29 +43,31 @@ src="https://raw.githubusercontent.com/oieanderson/oieanderson/main/src/coffee.p
  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![NodeJS](https://img.shields.io/badge/-Node-%230d1117.svg?style=for-the-badge&logo=nodedotjs)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![React Native](https://img.shields.io/badge/-React_Native-black?logo=react&logoColor=blue&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![NodeJS](https://img.shields.io/badge/-Node-%230d1117?style=for-the-badge&logo=nodedotjs)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-%230d1117?style=for-the-badge&logo=react&logoColor=blue)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Typescript](https://img.shields.io/badge/-Typescript-%230d1117.svg?style=for-the-badge&logo=Typescript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-%230d1117?style=for-the-badge&logo=typescript)
 ![Next.js](https://img.shields.io/badge/-Next.js-%230d1117?style=for-the-badge&logo=Next.js)
-![Bootstrap CSS](https://img.shields.io/badge/bootstrap-%230d1117?style=for-the-badge&logo=bootstrap)
+![Bootstrap CSS](https://img.shields.io/badge/Bootstrap-%230d1117?style=for-the-badge&logo=bootstrap)
+
 
 
 ### Back End
 
-![MariaDB](https://img.shields.io/badge/-MariaDB-%230d1117.svg?style=for-the-badge&logo=MariaDB)
-![Django](https://img.shields.io/badge/-Django-%230d1117.svg?style=for-the-badge&logo=Django)
-![MySQL](https://img.shields.io/badge/-MySQL-%230d1117.svg?style=for-the-badge&logo=MySQL)
-![MongoDB](https://img.shields.io/badge/-MongoDB-%230d1117.svg?style=for-the-badge&logo=MongoDB)
-![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=yellow)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-%230d1117.svg?style=for-the-badge&logo=SQLite)
-![Docker](https://img.shields.io/badge/-Docker-%230d1117.svg?style=for-the-badge&logo=Docker)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%230d1117.svg?style=for-the-badge&logo=PostgreSQL)
-![firebase](https://img.shields.io/badge/-firebase-%230d1117.svg?style=for-the-badge&logo=firebase)
+![MariaDB](https://img.shields.io/badge/-MariaDB-%230d1117?style=for-the-badge&logo=MariaDB)
+![Django](https://img.shields.io/badge/-Django-%230d1117?style=for-the-badge&logo=Django)
+![MySQL](https://img.shields.io/badge/-MySQL-%230d1117?style=for-the-badge&logo=MySQL)
+![MongoDB](https://img.shields.io/badge/-MongoDB-%230d1117?style=for-the-badge&logo=MongoDB)
+![Python](https://img.shields.io/badge/-Python-%230d1117?style=for-the-badge&logo=python&logoColor=yellow)
+![PHP](https://img.shields.io/badge/PHP-%230d1117?style=for-the-badge&logo=php&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-%230d1117?style=for-the-badge&logo=SQLite)
+![Docker](https://img.shields.io/badge/-Docker-%230d1117?style=for-the-badge&logo=Docker)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%230d1117?style=for-the-badge&logo=PostgreSQL)
+![Firebase](https://img.shields.io/badge/-Firebase-%230d1117?style=for-the-badge&logo=firebase)
 ![C#](https://img.shields.io/badge/C%23-%230d1117?style=for-the-badge&logo=c-sharp)
+
 
 
 </div>
