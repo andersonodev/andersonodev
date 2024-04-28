@@ -34,7 +34,7 @@ src="https://raw.githubusercontent.com/oieanderson/oieanderson/main/src/coffee.p
 
   #  Skills
  
- <img align="right" alt="anderson-pic" height="380" style="border-radius:100px;" src="https://raw.githubusercontent.com/oieanderson/oieanderson/b670b5b32dc23ec6d89ff3e8eb686568f0846116/assets/programming.svg">
+ <img align="right" alt="anderson-pic" height="380" style="border-radius:100px;" src="https://raw.githubusercontent.com/oieanderson/oieanderson/b670b5b32dc23ec6d89ff3e8eb686568f0846116/src/assets/programming.svg">
  
 
  
