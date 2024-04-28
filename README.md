@@ -63,9 +63,6 @@ src="https://raw.githubusercontent.com/oieanderson/oieanderson/main/src/coffee.p
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%230d1117?style=for-the-badge&logo=MongoDB&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-%230d1117?style=for-the-badge&logo=python&logoColor=white)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&color=0d1117)](link_do_seu_site_ou_repositorio)
-
-
-
 ![C#](https://img.shields.io/badge/C%23-%230d1117?style=for-the-badge&logo=c-sharp)
 
 
