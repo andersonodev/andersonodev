@@ -19,7 +19,7 @@ src="https://raw.githubusercontent.com/oieanderson/oieanderson/main/src/coffee.p
 
 <br>
   
-<a href="https://www.buymeacoffee.com/oieanderson" target="_blank"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 150px !important;" >
+<a href="https://www.buymeacoffee.com/oieanderson" target="_blank" target="_blank" ><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 150px !important;" >
 </a>
       
 <div class="body">
