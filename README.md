@@ -40,16 +40,19 @@ src="https://raw.githubusercontent.com/oieanderson/oieanderson/main/src/coffee.p
 
  ### Front-End
  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=0d1117)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=0d1117)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&color=0d1117)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white&color=0d1117)
-![React Native](https://img.shields.io/badge/-React_Native-%230d1117?style=for-the-badge&logo=react&logoColor=white&color=0d1117&)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=0d1117)
-![TypeScript](https://img.shields.io/badge/-TypeScript-%230d1117?style=for-the-badge&logo=typescript&color=0d1117&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-%230d1117?style=for-the-badge&logo=Next.js&color=0d1117)
-![Bootstrap CSS](https://img.shields.io/badge/Bootstrap-%230d1117?style=for-the-badge&logo=bootstrap&color=0d1117&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-%230d1117?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=050816)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=050816)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&color=050816)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white&color=050816)
+![React Native](https://img.shields.io/badge/-React_Native-%230d1117?style=for-the-badge&logo=react&logoColor=white&color=050816&)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=050816)
+![TypeScript](https://img.shields.io/badge/-TypeScript-%230d1117?style=for-the-badge&logo=typescript&color=050816&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-%230d1117?style=for-the-badge&logo=Next.js&color=050816)
+![Bootstrap CSS](https://img.shields.io/badge/Bootstrap-%230d1117?style=for-the-badge&logo=bootstrap&color=050816&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-%230d1117?style=for-the-badge&logo=tailwind-css&logoColor=white&color=050816)
+
+
+
 
 
 
@@ -57,13 +60,14 @@ src="https://raw.githubusercontent.com/oieanderson/oieanderson/main/src/coffee.p
 
 ### Back-End
 
-![NodeJS](https://img.shields.io/badge/-Node-%230d1117?style=for-the-badge&logo=nodedotjs&color=0d1117&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-%230d1117?style=for-the-badge&logo=Django)
-![MySQL](https://img.shields.io/badge/-MySQL-%230d1117?style=for-the-badge&logo=MySQL&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-%230d1117?style=for-the-badge&logo=MongoDB&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-%230d1117?style=for-the-badge&logo=python&logoColor=white)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&color=0d1117)](link_do_seu_site_ou_repositorio)
-![C#](https://img.shields.io/badge/C%23-%230d1117?style=for-the-badge&logo=c-sharp)
+![NodeJS](https://img.shields.io/badge/-Node-%23110D25?style=for-the-badge&logo=nodedotjs&color=110D25&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-%23110D25?style=for-the-badge&logo=Django)
+![MySQL](https://img.shields.io/badge/-MySQL-%23110D25?style=for-the-badge&logo=MySQL&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-%23110D25?style=for-the-badge&logo=MongoDB&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-%23110D25?style=for-the-badge&logo=python&logoColor=white)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&color=110D25)](link_do_seu_site_ou_repositorio)
+![C#](https://img.shields.io/badge/C%23-%23110D25?style=for-the-badge&logo=c-sharp)
+
 
 
 
