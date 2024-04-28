@@ -4,13 +4,14 @@
 <img align="right" alt="anderson-pic" height="230" styl0e="border-radius:100px;"
 src="https://raw.githubusercontent.com/oieanderson/oieanderson/main/src/coffee.png">  
 
-[![Instagram](https://img.shields.io/badge/-@oieanderson-%230d1117?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/oieanderson)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230d1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oieanderson)
-[![Telegram](https://img.shields.io/badge/Telegram-%230d1117?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/oieanderson)
-[![Discord](https://img.shields.io/badge/Discord-%230d1117?style=for-the-badge&logo=discord&logoColor=white)](COLOQUE_AQUI_O_SEU_LINK_PARA_O_DISCORD)
+[![Instagram](https://img.shields.io/badge/-@oieanderson-%23110D25?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/oieanderson)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23110D25?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oieanderson)
+[![Telegram](https://img.shields.io/badge/Telegram-%23110D25?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/oieanderson)
+[![Discord](https://img.shields.io/badge/Discord-%23110D25?style=for-the-badge&logo=discord&logoColor=white)](COLOQUE_AQUI_O_SEU_LINK_PARA_O_DISCORD)
 
-[![Email](https://img.shields.io/badge/-andersonodev@gmail.com-%230d1117?style=for-the-badge&logo=gmail&logoColor=white)](https://www.oieanderson.com)
-[![Website](https://img.shields.io/badge/www.andersonlima.dev-%230d1117?style=for-the-badge&logo=&logoColor=white)](https://www.oieanderson.com)
+[![Email](https://img.shields.io/badge/-andersonodev@gmail.com-%23110D25?style=for-the-badge&logo=gmail&logoColor=white)](https://www.oieanderson.com)
+[![Website](https://img.shields.io/badge/www.andersonlima.dev-%23110D25?style=for-the-badge&logo=&logoColor=white)](https://www.oieanderson.com)
+
 
 
 
@@ -40,16 +41,17 @@ src="https://raw.githubusercontent.com/oieanderson/oieanderson/main/src/coffee.p
 
  ### Front-End
  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=050816)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=050816)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&color=050816)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white&color=050816)
-![React Native](https://img.shields.io/badge/-React_Native-%230d1117?style=for-the-badge&logo=react&logoColor=white&color=050816&)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=050816)
-![TypeScript](https://img.shields.io/badge/-TypeScript-%230d1117?style=for-the-badge&logo=typescript&color=050816&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-%230d1117?style=for-the-badge&logo=Next.js&color=050816)
-![Bootstrap CSS](https://img.shields.io/badge/Bootstrap-%230d1117?style=for-the-badge&logo=bootstrap&color=050816&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-%230d1117?style=for-the-badge&logo=tailwind-css&logoColor=white&color=050816)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=110D25)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=110D25)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&color=110D25)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white&color=110D25)
+![React Native](https://img.shields.io/badge/-React_Native-%230d1117?style=for-the-badge&logo=react&logoColor=white&color=110D25&)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=110D25)
+![TypeScript](https://img.shields.io/badge/-TypeScript-%230d1117?style=for-the-badge&logo=typescript&color=110D25&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-%230d1117?style=for-the-badge&logo=Next.js&color=110D25)
+![Bootstrap CSS](https://img.shields.io/badge/Bootstrap-%230d1117?style=for-the-badge&logo=bootstrap&color=110D25&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-%230d1117?style=for-the-badge&logo=tailwind-css&logoColor=white&color=110D25)
+
 
 
 
