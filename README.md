@@ -2,7 +2,7 @@
 <h1> Social | Contato </h1>
 
 <img align="right" alt="anderson-pic" height="230" styl0e="border-radius:100px;"
-src="https://raw.githubusercontent.com/oieanderson/oieanderson/main/src/coffee.png">  
+src="./src/images/coffee.png">  
 
 [![Instagram](https://img.shields.io/badge/-@oieanderson-%23110D25?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/oieanderson)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23110D25?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oieanderson)
@@ -34,7 +34,7 @@ src="https://raw.githubusercontent.com/oieanderson/oieanderson/main/src/coffee.p
 
   #  Skills
  
- <img align="right" alt="anderson-pic" height="380" style="border-radius:100px;" src="https://raw.githubusercontent.com/oieanderson/oieanderson/b670b5b32dc23ec6d89ff3e8eb686568f0846116/src/assets/programming.svg">
+ <img align="right" alt="anderson-pic" height="380" style="border-radius:100px;" src="./src/assets/programador.svg">
  
 
  
@@ -67,7 +67,7 @@ src="https://raw.githubusercontent.com/oieanderson/oieanderson/main/src/coffee.p
 ![MySQL](https://img.shields.io/badge/-MySQL-%23110D25?style=for-the-badge&logo=MySQL&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%23110D25?style=for-the-badge&logo=MongoDB&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-%23110D25?style=for-the-badge&logo=python&logoColor=white)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&color=110D25)](link_do_seu_site_ou_repositorio)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&color=110D25)
 ![C#](https://img.shields.io/badge/C%23-%23110D25?style=for-the-badge&logo=c-sharp)
 
 
