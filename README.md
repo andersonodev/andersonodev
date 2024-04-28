@@ -1,34 +1,8 @@
-<div class="body">
-<div class="top">
-<div class="welcome>
 
-<hr size="2" width="100%">
-<hr size="2" width="100%">
-<img align="center" alt="anderson-pic" width="895" height="165" styl0e="border-radius:100px;"
-src="https://raw.githubusercontent.com/oieanderson/oieanderson/main/src/welcome.png">
+<h1> Social && contato </h1>
 
-<hr size="2" width="100%">
-
-</div>
-
-<div class="about-me">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oieanderson&color=blue" alt="Profile views" /> </p>
-
-<h3>
-
-<h3>
-
-<br>
-                  
 <img align="right" alt="anderson-pic" height="230" styl0e="border-radius:100px;"
-src="https://raw.githubusercontent.com/oieanderson/oieanderson/main/src/coffee.png">          
-                  
-<div class="social-contact">
-  
-<h3 align="left" > <strong> 📤 SOCIAL && CONTACT 📤 </strong>  </h3>
-
-<p align="left">
+src="https://raw.githubusercontent.com/oieanderson/oieanderson/main/src/coffee.png">  
 
 <a href="https://instagram.com/oieanderson" target="_blank"><img src="https://img.shields.io/badge/-@oieanderson-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/oieanderson" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -44,11 +18,9 @@ src="https://raw.githubusercontent.com/oieanderson/oieanderson/main/src/coffee.p
   
 <a href="https://www.buymeacoffee.com/oieanderson" target="_blank"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 180px !important;" >
 </a>
-
-</p>
-</div>                
-</div>
-</div>
+      
+<div class="body">
+<div class="top">
 
 <br>
 <br>
@@ -56,13 +28,14 @@ src="https://raw.githubusercontent.com/oieanderson/oieanderson/main/src/coffee.p
 
 <div class="techs-skills">
 
-<h1 align="left"><strong>💻 TECNOLOGIAS 💻</strong> </h1>
+  #  Skills
  
  <img align="right" alt="anderson-pic" height="380" style="border-radius:100px;" src="https://raw.githubusercontent.com/oieanderson/oieanderson/b670b5b32dc23ec6d89ff3e8eb686568f0846116/assets/programming.svg">
  
+
  
- <div> 
- <h2> Front-End</h2>
+
+ ### Front-End
  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -75,10 +48,8 @@ src="https://raw.githubusercontent.com/oieanderson/oieanderson/main/src/coffee.p
 ![Next.js](https://img.shields.io/badge/-Next.js-%230d1117?style=for-the-badge&logo=Next.js)
 ![Bootstrap CSS](https://img.shields.io/badge/bootstrap-%230d1117?style=for-the-badge&logo=bootstrap)
 
- </div>
 
-<div class="working">
-<h2> Back End</h2>
+### Back End
 
 ![MariaDB](https://img.shields.io/badge/-MariaDB-%230d1117.svg?style=for-the-badge&logo=MariaDB)
 ![Django](https://img.shields.io/badge/-Django-%230d1117.svg?style=for-the-badge&logo=Django)
@@ -94,16 +65,15 @@ src="https://raw.githubusercontent.com/oieanderson/oieanderson/main/src/coffee.p
 
 
 </div>
-</div>
  
 
 <br>
 
-<div align="center" class="statistics">
 
-<h1 align="left" > <strong>📈 ESTATÍSTICAS GITHUB 📈</strong> </h1> 
+
+# Estatísticas Github
   
-<p align="left">
+
   
 <!--  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=andersonodev&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/>  VERSÃO COMPLETA -->
 
@@ -119,8 +89,6 @@ src="https://raw.githubusercontent.com/oieanderson/oieanderson/main/src/coffee.p
 ![Snake animation](https://github.com/andersonodev/andersonodev/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
   
 <!-- VERSÃO NORMAL ![Snake animation](https://github.com/andersonodev/andersonodev/blob/output/github-contribution-grid-snake.svg) -->
-</p>
-</div>
 
 <br>
 
