@@ -1,5 +1,5 @@
 
-<h1> Social && contato </h1>
+<h1> Social | Contato </h1>
 
 <img align="right" alt="anderson-pic" height="230" styl0e="border-radius:100px;"
 src="https://raw.githubusercontent.com/oieanderson/oieanderson/main/src/coffee.png">  
