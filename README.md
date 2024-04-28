@@ -67,7 +67,7 @@ src="./src/images/coffee.png">
 ![MySQL](https://img.shields.io/badge/-MySQL-%23110D25?style=for-the-badge&logo=MySQL&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%23110D25?style=for-the-badge&logo=MongoDB&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-%23110D25?style=for-the-badge&logo=python&logoColor=white)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&color=110D25)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&color=110D25)
 ![C#](https://img.shields.io/badge/C%23-%23110D25?style=for-the-badge&logo=c-sharp)
 
 
