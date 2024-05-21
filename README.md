@@ -66,7 +66,7 @@ src="./src/images/coffee.png">
 ![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
-<img align="right" alt="anderson-pic" height="330" styl0e="border-radius:100px;"
+<img align="right" alt="anderson-pic" height="320" styl0e="border-radius:100px;"
 src="./src/images/codes.png">  
 
 ### Banco de Dados
