@@ -101,7 +101,7 @@ src="./src/images/coffee.png">
   
 <!--  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=andersonodev&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/>  VERSÃO COMPLETA -->
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api?username=andersonodev&hide=contribs,issues,prs&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/>
+<img width="55%" src="https://github-readme-stats.vercel.app/api?username=andersonodev&hide=contribs,prs&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/>
  
 <img width="43%" src="http://github-readme-streak-stats.herokuapp.com?user=andersonodev&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&sideNums=FFF"/>
 
