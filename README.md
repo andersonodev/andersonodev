@@ -1,9 +1,10 @@
+# Sobre mim 
+Olá, meu nome é Anderson Lima, eu sou um desenvolvedor Full Stack apaixonado por criar aplicações. Aprendo rápido e estou sempre procurando expandir meus conhecimentos e conjunto de habilidades. Atualmente estou cursando Bacharel em Ciência da Computação. Sou apaixonado por tecnologia e desenvolvimento. Amo a ideia de criar, inovar e inventar. Além disso, tenho um forte interesse em cibersegurança e hacking ético. Gosto de explorar técnicas e práticas para proteger sistemas e dados.
 
-# Conecte-se comigo
 
+### Conecte-se comigo
 <img align="right" alt="anderson-pic" height="230" styl0e="border-radius:100px;"
 src="./src/images/coffee.png">  
-
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/SEUUSERNAME/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/)
 [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/SEUUSERNAME)
