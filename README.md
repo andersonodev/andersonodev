@@ -1,16 +1,16 @@
 
-<h1> Social | Contato </h1>
+# Social | Contato 
 
 <img align="right" alt="anderson-pic" height="230" styl0e="border-radius:100px;"
 src="./src/images/coffee.png">  
 
-[![Instagram](https://img.shields.io/badge/-@oieanderson-%23110D25?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/oieanderson)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23110D25?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oieanderson)
-[![Telegram](https://img.shields.io/badge/Telegram-%23110D25?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/oieanderson)
-[![Discord](https://img.shields.io/badge/Discord-%23110D25?style=for-the-badge&logo=discord&logoColor=white)](COLOQUE_AQUI_O_SEU_LINK_PARA_O_DISCORD)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/SEUUSERNAME/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/)
+[![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/SEUUSERNAME)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@SEUUSERNAME/)
 
-[![Email](https://img.shields.io/badge/-andersonodev@gmail.com-%23110D25?style=for-the-badge&logo=gmail&logoColor=white)](https://www.oieanderson.com)
-[![Website](https://img.shields.io/badge/www.andersonlima.dev-%23110D25?style=for-the-badge&logo=&logoColor=white)](https://www.oieanderson.com)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:andersonodev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://andersonlima.dev)
 
 
 
