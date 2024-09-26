@@ -1,5 +1,5 @@
 # Sobre mim 
-Olá, meu nome é Anderson Lima, eu sou um desenvolvedor Full Stack apaixonado por criar aplicações. Aprendo rápido e estou sempre procurando expandir meus conhecimentos e conjunto de habilidades. Atualmente estou cursando Bacharel em Ciência da Computação. Sou apaixonado por tecnologia e desenvolvimento. Amo a ideia de criar, inovar e inventar. Além disso, tenho um forte interesse em cibersegurança e hacking ético. Gosto de explorar técnicas e práticas para proteger sistemas e dados.
+Olá, meu nome é Anderson Lima, eu sou um desenvolvedor Full Stack apaixonado por criar aplicações. Aprendo rápido e estou sempre procurando expandir meus conhecimentos e conjunto de habilidades. Atualmente estou cursando Bacharel em Engenharia de Computação. Sou apaixonado por tecnologia e desenvolvimento. Amo a ideia de criar, inovar e inventar. Além disso, tenho um forte interesse em cibersegurança e hacking ético. Gosto de explorar técnicas e práticas para proteger sistemas e dados.
 
 
 ### Conecte-se comigo
@@ -51,7 +51,6 @@ src="./src/images/coffee.png">
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![BashScript](https://img.shields.io/badge/bash%20script-0101?style=flat&logo=gnubash&logoColor=%23FFFFFF&labelColor=%23000000)
 
 
