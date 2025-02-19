@@ -1,5 +1,9 @@
 # Sobre mim 
-Olá, meu nome é Anderson Lima, eu sou um desenvolvedor Full Stack apaixonado por criar aplicações. Aprendo rápido e estou sempre procurando expandir meus conhecimentos e conjunto de habilidades. Atualmente estou cursando Bacharel em Engenharia de Computação. Sou apaixonado por tecnologia e desenvolvimento. Amo a ideia de criar, inovar e inventar. Além disso, tenho um forte interesse em cibersegurança e hacking ético. Gosto de explorar técnicas e práticas para proteger sistemas e dados.
+Desenvolvedor Full-Stack atualmente cursando Bacharelado em Engenharia de Computação. Sou movido pelo desafio de criar, inovar e resolver problemas complexos através da tecnologia. Além disso, tenho um forte interesse por cibersegurança, explorando técnicas para proteger sistemas contra ameaças e ataques. 
+</br>
+🔎 Sou Curioso e autodidata, estou sempre atualizado com as tendências e novas tecnologias do mercado, buscando aprimorar minhas habilidades em desenvolvimento e arquitetura de software.
+</br>
+Atualmente estou em busca de novas oportunidades, minha caixa de entrada está sempre aberta. Se você tiver alguma dúvida ou apenas quiser dizer oi, farei o possível para entrar em contato com você!! 🚀.
 
 
 ### Conecte-se comigo
