@@ -1,7 +1,9 @@
 # Sobre mim 
 Desenvolvedor Full-Stack atualmente cursando Bacharelado em Engenharia de Computação. Sou movido pelo desafio de criar, inovar e resolver problemas complexos através da tecnologia. Além disso, tenho um forte interesse por cibersegurança, explorando técnicas para proteger sistemas contra ameaças e ataques. 
 </br>
+</br>
 🔎 Sou Curioso e autodidata, estou sempre atualizado com as tendências e novas tecnologias do mercado, buscando aprimorar minhas habilidades em desenvolvimento e arquitetura de software.
+</br>
 </br>
 Atualmente estou em busca de novas oportunidades, minha caixa de entrada está sempre aberta. Se você tiver alguma dúvida ou apenas quiser dizer oi, farei o possível para entrar em contato com você!! 🚀.
 
