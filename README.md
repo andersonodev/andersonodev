@@ -106,7 +106,7 @@ src="./src/images/codes.png">
   
 <!--  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=andersonodev&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/>  VERSÃO COMPLETA -->
 
-<div align="center">
+
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=andersonodev&hide=contribs,prs&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/>
 
@@ -116,13 +116,11 @@ src="./src/images/codes.png">
 
 <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=andersonodev&hide=c%23,scss&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&layout=compact&hide_border=true&border_radius=15&bg_color=0d1117"/>
 
-</div>
-
 
   
 ![Snake animation](https://github.com/andersonodev/andersonodev/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
   
-<!-- VERSÃO NORMAL ![Snake animation](https://github.com/andersonodev/andersonodev/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/andersonodev/andersonodev/blob/output/github-contribution-grid-snake.svg)
 
 <br>
 
