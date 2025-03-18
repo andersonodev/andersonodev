@@ -108,7 +108,7 @@ src="./src/images/codes.png">
 
 
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=andersonodev&hide=contribs,prs&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=andersonodev&hide=contribs,prs&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/>
 
 <br/>
 
@@ -120,7 +120,7 @@ src="./src/images/codes.png">
 
 <br/>
 
-<img width="59%" src="https://github-readme-activity-graph.vercel.app/graph?username=andersonodev&hide=c%23,scss&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&layout=compact&hide_border=true&border_radius=15&bg_color=0d1117"/>
+<img width="50%" src="https://github-readme-activity-graph.vercel.app/graph?username=andersonodev&hide=c%23,scss&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&layout=compact&hide_border=true&border_radius=15&bg_color=0d1117"/>
 
 <br/>
 
