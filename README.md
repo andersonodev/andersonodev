@@ -69,9 +69,7 @@ src="./src/images/coffee.png">
 
 ### Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
-![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
 
 
 <img align="right" alt="anderson-pic" height="320" styl0e="border-radius:100px;"
@@ -108,17 +106,14 @@ src="./src/images/codes.png">
 
 
 
-<img width="44%" src="https://github-readme-stats.vercel.app/api?username=andersonodev&hide=contribs,prs&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/>
+<img width="39%" src="https://github-readme-stats.vercel.app/api?username=andersonodev&show_icons=true&theme=dracula&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/>
 
 
 
-<img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=andersonodev&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&sideNums=FFF"/>
+<img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=andersonodev&hide=c%23,scss&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&layout=compact&hide_border=true&border_radius=15&bg_color=0d1117"/>
 
 
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=andersonodev&hide=c%23,scss&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&layout=compact&hide_border=true&border_radius=15&bg_color=0d1117"/>
-
-
-<img width="55%" src="https://github-readme-activity-graph.vercel.app/graph?username=andersonodev&hide=c%23,scss&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&layout=compact&hide_border=true&border_radius=15&bg_color=0d1117"/>
+<img width="69%" src="https://github-readme-activity-graph.vercel.app/graph?username=andersonodev&hide=c%23,scss&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&layout=compact&hide_border=true&border_radius=15&bg_color=0d1117"/>
 
 
   
