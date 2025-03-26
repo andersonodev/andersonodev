@@ -7,12 +7,14 @@ Desenvolvedor Back-End | Desenvolvedor Mobile - atualmente cursando Bacharelado 
 </br>
 Atualmente estou em busca de novas oportunidades, minha caixa de entrada está sempre aberta. Se você tiver alguma dúvida ou apenas quiser dizer oi, farei o possível para entrar em contato com você!! 🚀.
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## Projetos recentes:
 
 <a href="https://github.com/andersonodev/cleanbox" target="_blank">
   <img width="25%" src="https://github-readme-stats.vercel.app/api/pin/?username=andersonodev&repo=cleanbox" />
 </a>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
