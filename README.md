@@ -9,7 +9,9 @@ Atualmente estou em busca de novas oportunidades, minha caixa de entrada está s
 
 ## Projetos recentes:
 
-<img width="25%" src="https://github-readme-stats.vercel.app/api/pin/?username=andersonodev&repo=cleanbox"/>
+<a href="https://github.com/andersonodev/cleanbox">
+  <img width="25%" src="https://github-readme-stats.vercel.app/api/pin/?username=andersonodev&repo=cleanbox" />
+</a>
 
 
 
