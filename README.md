@@ -7,6 +7,12 @@ Desenvolvedor Back-End | Desenvolvedor Mobile - atualmente cursando Bacharelado 
 </br>
 Atualmente estou em busca de novas oportunidades, minha caixa de entrada está sempre aberta. Se você tiver alguma dúvida ou apenas quiser dizer oi, farei o possível para entrar em contato com você!! 🚀.
 
+## Projetos recentes:
+
+<img width="25%" src="https://github-readme-stats.vercel.app/api/pin/?username=andersonodev&repo=cleanbox"/>
+
+
+
 
 ### Conecte-se comigo
 <img align="right" alt="anderson-pic" height="230" styl0e="border-radius:100px;"
