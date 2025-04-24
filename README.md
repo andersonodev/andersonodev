@@ -1,11 +1,5 @@
 # Sobre mim 
-Desenvolvedor Back-End | Desenvolvedor Mobile - atualmente cursando Bacharelado em Engenharia de Computação. Sou movido pelo desafio de criar, inovar e resolver problemas complexos através da tecnologia. Além disso, tenho um forte interesse por cibersegurança, explorando técnicas para proteger sistemas contra ameaças e ataques. 
-</br>
-</br>
-🔎 Sou Curioso e autodidata, estou sempre atualizado com as tendências e novas tecnologias do mercado, buscando aprimorar minhas habilidades em desenvolvimento e arquitetura de software.
-</br>
-</br>
-Atualmente estou em busca de novas oportunidades, minha caixa de entrada está sempre aberta. Se você tiver alguma dúvida ou apenas quiser dizer oi, farei o possível para entrar em contato com você!! 🚀.
+Dev BackEnd
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -29,8 +23,6 @@ Atualmente estou em busca de novas oportunidades, minha caixa de entrada está s
 src="./src/images/coffee.png">  
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/SEUUSERNAME/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/)
-[![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/SEUUSERNAME)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@SEUUSERNAME/)
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:andersonodev@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://andersonlima.dev)
@@ -88,8 +80,7 @@ src="./src/images/coffee.png">
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 
 
-<img align="right" alt="anderson-pic" height="320" styl0e="border-radius:100px;"
-src="./src/images/codes.png">  
+
 
 ### Ferramentas
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
