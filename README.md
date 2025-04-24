@@ -1,5 +1,6 @@
 # Sobre mim 
-Dev BackEnd
+Desenvolvedor Back-End em formação, atualmente cursando Engenharia de Computação no IBMEC. Tenho experiência em projetos pessoais com foco em desenvolvimento back-end utilizando Java e Spring Boot, além de integração com bancos de dados. Também possuo domínio em Python e C#, tanto para desenvolvimento de aplicações quanto para análise de dados e aplicações de Inteligência Artificial.
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
