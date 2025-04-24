@@ -14,6 +14,12 @@ Atualmente estou em busca de novas oportunidades, minha caixa de entrada está s
 <a href="https://github.com/andersonodev/cleanbox" target="_blank">
   <img width="25%" src="https://github-readme-stats.vercel.app/api/pin/?username=andersonodev&repo=cleanbox" />
 </a>
+<a href="https://github.com/andersonodev/cleanbox" target="_blank">
+  <img width="25%" src="https://github-readme-stats.vercel.app/api/pin/?username=andersonodev&repo=medical-clinic-api-with-spring" />
+</a>
+<a href="https://github.com/andersonodev/cleanbox" target="_blank">
+  <img width="25%" src="https://github-readme-stats.vercel.app/api/pin/?username=andersonodev&repo=VendasMVC" />
+</a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
