@@ -1,6 +1,11 @@
 # Sobre mim 
 Desenvolvedor Back-End em formação, atualmente cursando Engenharia de Computação no IBMEC. Tenho experiência em projetos pessoais com foco em desenvolvimento back-end utilizando Java e Spring Boot, além de integração com bancos de dados. Também possuo domínio em Python e C#, tanto para desenvolvimento de aplicações quanto para análise de dados e aplicações de Inteligência Artificial.
 
+##
+
+
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -35,9 +40,13 @@ src="./src/images/coffee.png">
   <!-- https://shields.io/ #ALTERAÇÃO DAS BADGES -->
 
 <br>
+
+ <!-- 
   
 <a href="https://www.buymeacoffee.com/oieanderson" target="_blank" ><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 150px !important;" >
 </a>
+
+-->
       
 <div class="body">
 <div class="top">
@@ -107,21 +116,15 @@ src="./src/images/coffee.png">
 <img width="74%" src="https://github-readme-activity-graph.vercel.app/graph?username=andersonodev&hide=c%23,scss&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&layout=compact&hide_border=true&border_radius=15&bg_color=0d1117"/>
 
 
-
-
-
-![Status](./profile-3d-contrib/profile-night-rainbow.svg)
   
 
   
-[![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andersonodev&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
- 
-[![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andersonodev&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
- 
+| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andersonodev&theme=github_dark&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andersonodev&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
+| ----------- | ----------- |
 
 
+ <!--
 
- 
   <div align="center" >
 <a href="https://skillicons.dev"   >
   <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,nest,vue,docker,figma,github,jest,materialui,linux,postman,styledcomponents,vercel,vite,bootstrap,mongodb" />
@@ -129,7 +132,7 @@ src="./src/images/coffee.png">
   <br />
 
   </div>
-
+-->
  
 ##
    <div align="center" >
