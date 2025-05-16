@@ -3,7 +3,6 @@ Desenvolvedor Back-End em formação, atualmente cursando Engenharia de Computa�
 
 ##
 
-
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
@@ -39,7 +38,6 @@ src="./src/images/coffee.png">
 
   <!-- https://shields.io/ #ALTERAÇÃO DAS BADGES -->
 
-<br>
 
  <!-- 
   
@@ -105,15 +103,13 @@ src="./src/images/coffee.png">
 <!--  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=andersonodev&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/>  VERSÃO COMPLETA -->
 
 
+<div  align="center" >
+  
+|  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=andersonodev&show_icons=true&theme=dracula&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/> |  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonodev&hide_progress=true&theme=dracula&icon_color=DAD3AF&layout=compact&hide_border=true&border_radius=15&bg_color=0d1117"/>
+| ----------- | ----------- |
 
-<img width="39%" src="https://github-readme-stats.vercel.app/api?username=andersonodev&show_icons=true&theme=dracula&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/>
+</div>
 
-
-
-<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonodev&hide_progress=true&theme=dracula&icon_color=DAD3AF&layout=compact&hide_border=true&border_radius=15&bg_color=0d1117"/>
-
-
-<img width="74%" src="https://github-readme-activity-graph.vercel.app/graph?username=andersonodev&hide=c%23,scss&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&layout=compact&hide_border=true&border_radius=15&bg_color=0d1117"/>
 
 
   
@@ -136,7 +132,7 @@ src="./src/images/coffee.png">
  
 ##
    <div align="center" >
-     <img src="https://github-profile-trophy.vercel.app/?username=andersonodev&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+     <img src="https://github-profile-trophy.vercel.app/?username=andersonodev&row=1&column=6&theme=algolia&margin-w=15&margin-h=15"/>
   </div>
   
  
