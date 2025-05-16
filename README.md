@@ -22,7 +22,7 @@ Desenvolvedor Back-End em formação, atualmente cursando Engenharia de Computa�
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-
+ <!--
 ### Conecte-se comigo
 <img align="right" alt="anderson-pic" height="230" styl0e="border-radius:100px;"
 src="./src/images/coffee.png">  
@@ -31,10 +31,7 @@ src="./src/images/coffee.png">
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:andersonodev@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://andersonlima.dev)
-
-
-
-
+-->
 
   <!-- https://shields.io/ #ALTERAÇÃO DAS BADGES -->
 
@@ -108,11 +105,7 @@ src="./src/images/coffee.png">
 |  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=andersonodev&show_icons=true&theme=dracula&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/> |  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonodev&hide_progress=true&theme=dracula&icon_color=DAD3AF&layout=compact&hide_border=true&border_radius=15&bg_color=0d1117"/>
 | ----------- | ----------- |
 
-</div>
-
-
-
-  
+</div>  
 
   
 | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andersonodev&theme=github_dark&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andersonodev&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
