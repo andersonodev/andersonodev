@@ -6,8 +6,10 @@ Desenvolvedor Back-End em formação, atualmente cursando Engenharia de Computa�
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+
+ <!--
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ## Projetos recentes:
 
 <a href="https://github.com/andersonodev/cleanbox" target="_blank">
@@ -19,6 +21,8 @@ Desenvolvedor Back-End em formação, atualmente cursando Engenharia de Computa�
 <a href="https://github.com/andersonodev/cleanbox" target="_blank">
   <img width="25%" src="https://github-readme-stats.vercel.app/api/pin/?username=andersonodev&repo=VendasMVC" />
 </a>
+-->
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
