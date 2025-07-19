@@ -144,7 +144,7 @@ src="./src/images/coffee.png">
 
 ###
   
-![Snake animation](https://github.com/andersonodev/andersonodev/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+<!-- ![Snake animation](https://github.com/andersonodev/andersonodev/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark) -->
   
 <!--  ![Snake animation](https://github.com/andersonodev/andersonodev/blob/output/github-contribution-grid-snake.svg) -->
 
