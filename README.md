@@ -134,19 +134,14 @@ src="./src/images/coffee.png">
   
 
 
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andersonodev/andersonodev/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andersonodev/andersonodev/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/andersonodev/andersonodev/output/pacman-contribution-graph.svg">
-</picture>
 
-###
-
-<img src="https://raw.githubusercontent.com/andersonodev/andersonodev/output/snake.svg" alt="Snake animation" />
 
 ###
   
-<!-- ![Snake animation](https://github.com/andersonodev/andersonodev/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark) -->
+![Snake animation](https://github.com/andersonodev/andersonodev/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark) 
   
 <!--  ![Snake animation](https://github.com/andersonodev/andersonodev/blob/output/github-contribution-grid-snake.svg) -->
 
