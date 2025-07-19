@@ -132,10 +132,15 @@ src="./src/images/coffee.png">
      <img src="https://github-profile-trophy.vercel.app/?username=andersonodev&row=1&column=6&theme=algolia&margin-w=15&margin-h=15"/>
   </div>
   
- 
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andersonodev/andersonodev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andersonodev/andersonodev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/andersonodev/andersonodev/output/pacman-contribution-graph.svg">
+</picture>
 
+###
   
 ![Snake animation](https://github.com/andersonodev/andersonodev/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
   
