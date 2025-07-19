@@ -134,6 +134,14 @@ src="./src/images/coffee.png">
 
 
 
+###
+  
+![Snake animation](https://github.com/andersonodev/andersonodev/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark) 
+  
+<!--  ![Snake animation](https://github.com/andersonodev/andersonodev/blob/output/github-contribution-grid-snake.svg) -->
+
+<br>
+
 <br clear="both">
 
 <picture>
@@ -142,15 +150,6 @@ src="./src/images/coffee.png">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/andersonodev/andersonodev/output/pacman-contribution-graph.svg">
 </picture>
 
-
-  
-
-
-###
-  
-![Snake animation](https://github.com/andersonodev/andersonodev/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark) 
-  
-<!--  ![Snake animation](https://github.com/andersonodev/andersonodev/blob/output/github-contribution-grid-snake.svg) -->
 
 <br>
 
