@@ -1,5 +1,5 @@
 # Sobre mim 
-Desenvolvedor Back-End em formação, atualmente cursando Engenharia de Computação no IBMEC. Tenho experiência em projetos pessoais com foco em desenvolvimento back-end utilizando Java e Spring Boot, além de integração com bancos de dados. Também possuo domínio em Python e C#, tanto para desenvolvimento de aplicações quanto para análise de dados e aplicações de Inteligência Artificial.
+Desenvolvedor de Software, atualmente cursando Engenharia de Computação no IBMEC. Tenho experiência em projetos pessoais com foco em desenvolvimento utilizando Java e Spring Boot, além de integração com bancos de dados. Também possuo domínio em Python e C#, tanto para desenvolvimento de aplicações quanto para análise de dados e aplicações de Inteligência Artificial.
 
 ##
 
