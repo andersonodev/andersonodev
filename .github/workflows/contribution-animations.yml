@@ -1,0 +1,55 @@
+name: Animações de contribuição (Snake + Pac-Man)
+
+# IMPORTANTE: Snake e Pac-Man ficam no MESMO workflow de propósito.
+# Os dois publicam na branch `output`, e a action de publicação substitui o
+# conteúdo da branch. Em workflows separados, um apagaria os SVGs do outro —
+# que é exatamente o motivo do Pac-Man estar quebrado (404) no seu perfil.
+
+on:
+  schedule:
+    # todo dia às 03:00 UTC (00:00 de Brasília)
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contribution-animations
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Gerar a cobrinha (snake)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          # Nomes iguais aos que o README já usa, para não quebrar os links.
+          outputs: |
+            dist/github-contribution-grid-snake.svg?palette=github-light
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Gerar o Pac-Man
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: "pacman"
+          hide_month_labels: "false"
+
+      - name: Conferir o que foi gerado
+        run: ls -la dist
+
+      - name: Publicar tudo na branch output
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
