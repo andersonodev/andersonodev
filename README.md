@@ -93,33 +93,6 @@ No desenvolvimento, uso **Java (Spring Boot)**, **C# (.NET)**, **Python (Django)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" alt="" /> Em produção
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏢 Hub corporativo · Intertouring</h3>
-      <p>Um lugar só para os sistemas que a operação usa todo dia: ERP B2B de turismo receptivo, fretamento com escala automática de motoristas, portal do passageiro, ConectaVoz (clima organizacional), Telos (tarefas com IA) e o proxy manager da infraestrutura.</p>
-      <p><code>Python</code> <code>Django</code> <code>n8n</code> <code>IA</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⛽ Plataforma de gestão · Rede Forza</h3>
-      <p>Tirei a operação das planilhas e levei para um banco de dados: <b>26 anos de histórico</b>, cerca de <b>1,9 milhão de registros</b> e vendas atualizadas a cada <b>5 minutos</b>, com projeções, sazonalidade e detecção de comportamento fora do padrão.</p>
-      <p><code>PostgreSQL</code> <code>Dados</code> <code>Projeções</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⛏️ ERP para mineradora</h3>
-      <p>ERP completo entregue para uma mineradora.</p>
-      <p><code>Full Stack</code> <code>ERP</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎓 Monitoria acadêmica · Ibmec</h3>
-      <p>Plataforma de monitoria do Ibmec. Além disso, mais de <b>20 clientes</b> atendidos como freelancer.</p>
-      <p><code>Web</code> <code>Freelance</code></p>
-    </td>
-  </tr>
-</table>
-
 ### 🧭 Como eu penso produto
 
 ```diff
